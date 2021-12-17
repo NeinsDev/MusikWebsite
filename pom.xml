@@ -8,8 +8,8 @@
 		<version>2.6.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>org.nicoc</groupId>
-	<artifactId>MusikFinder</artifactId>
+	<groupId>org.musik</groupId>
+	<artifactId>finder</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>MusikFinder</name>
 	<description>Musik Finden</description>
